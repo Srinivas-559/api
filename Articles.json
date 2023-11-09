@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "date": "2023-11-03T10:00:00Z",
+        "image": "https://example.com/image1.jpg",
+        "title": "Sample Article 1",
+        "description": "This is a sample article description for the first article. It contains more than 20 words to meet your requirements. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non libero ac odio bibendum facilisis."
+    },
+    {
+        "id": "2",
+        "date": "2023-11-03T11:15:00Z",
+        "image": "https://example.com/image2.jpg",
+        "title": "Sample Article 2",
+        "description": "This is a sample article description for the second article. It's a bit longer to meet the 20-word requirement. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": "3",
+        "date": "2023-11-03T12:30:00Z",
+        "image": "https://example.com/image3.jpg",
+        "title": "Sample Article 3",
+        "description": "This is a sample article description for the third article. It's designed to meet your requirements for at least 20 words in the description. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "4",
+        "date": "2023-11-03T13:45:00Z",
+        "image": "https://example.com/image4.jpg",
+        "title": "Sample Article 4",
+        "description": "This is a sample article description for the fourth article. It includes more content to meet the 20-word requirement. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+        "id": "5",
+        "date": "2023-11-03T14:30:00Z",
+        "image": "https://example.com/image5.jpg",
+        "title": "Sample Article 5",
+        "description": "This is a sample article description for the fifth article. It's sufficiently long to meet your requirements. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    
+    {
+        "id": "6",
+        "date": "2023-11-03T15:45:00Z",
+        "image": "https://example.com/image6.jpg",
+        "title": "Sample Article 6",
+        "description": "This is a sample article description for the sixth article. It contains more than 20 words to meet your requirements. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non libero ac odio bibendum facilisis."
+    },
+    {
+        "id": "7",
+        "date": "2023-11-03T16:15:00Z",
+        "image": "https://example.com/image7.jpg",
+        "title": "Sample Article 7",
+        "description": "This is a sample article description for the seventh article. It's a bit longer to meet the 20-word requirement. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": "8",
+        "date": "2023-11-03T17:30:00Z",
+        "image": "https://example.com/image8.jpg",
+        "title": "Sample Article 8",
+        "description": "This is a sample article description for the eighth article. It's designed to meet your requirements for at least 20 words in the description. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "9",
+        "date": "2023-11-03T18:45:00Z",
+        "image": "https://example.com/image9.jpg",
+        "title": "Sample Article 9",
+        "description": "This is a sample article description for the ninth article. It includes more content to meet the 20-word requirement. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    {
+        "id": "10",
+        "date": "2023-11-03T19:30:00Z",
+        "image": "https://example.com/image10.jpg",
+        "title": "Sample Article 10",
+        "description": "This is a sample article description for the tenth article. It's sufficiently long to meet your requirements. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+    
+]
